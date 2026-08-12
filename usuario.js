@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     voltar.addEventListener("click", () => {
 
-        window.location.href = "login.html";
+        window.location.href = "index.html";
 
     });
 
