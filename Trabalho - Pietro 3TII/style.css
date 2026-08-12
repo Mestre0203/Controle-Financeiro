@@ -1,0 +1,221 @@
+body{
+
+    background: linear-gradient(135deg,#0d6efd,#198754);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.card{
+
+    border-radius:15px;
+
+}
+
+h2{
+
+    color:#198754;
+    font-weight:bold;
+
+}
+
+.btn{
+
+    font-weight:bold;
+
+}
+
+body{
+    min-height:100vh;
+}
+
+.card{
+
+    transition:0.3s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+h1{
+
+    color:white;
+    font-weight:bold;
+
+}
+
+.card h3{
+
+    color:#198754;
+
+}
+
+.card{
+
+    border:none;
+    border-radius:18px;
+
+}
+
+.btn{
+
+    border-radius:10px;
+
+}
+
+body{
+
+    background:linear-gradient(135deg,#0d6efd,#198754);
+    background-attachment:fixed;
+
+}
+
+.card-body h5{
+
+    color:#198754;
+    font-weight:bold;
+
+}
+
+.card-body p{
+
+    margin-bottom:6px;
+
+}
+
+.shadow{
+
+    box-shadow:0 10px 25px rgba(0,0,0,.2)!important;
+
+}
+
+.card input {
+
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.card input:focus {
+
+    border-color: #198754;
+    box-shadow: 0 0 6px rgba(25,135,84,.3);
+
+}
+
+.card .btn {
+
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.card label {
+
+    font-weight: bold;
+    color: #333;
+
+}
+
+#mensagem {
+
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+body {
+
+    background: linear-gradient(135deg,#0d6efd,#198754);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.card {
+
+    border-radius:15px;
+    border:none;
+
+}
+
+h2 {
+
+    color:#198754;
+    font-weight:bold;
+
+}
+
+.form-control {
+
+    border-radius:10px;
+    padding:10px;
+
+}
+
+.form-control:focus {
+
+    border-color:#198754;
+
+    box-shadow:0 0 8px rgba(25,135,84,.3);
+
+}
+
+button {
+
+    width:100%;
+
+    padding:10px;
+
+    margin-top:10px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#198754;
+
+    color:white;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+button:hover {
+
+    transform:scale(1.03);
+
+    opacity:.9;
+
+}
+
+#btnCriarUsuario,
+#btnVoltar {
+
+    background:#0d6efd;
+
+}
+
+#btnVoltar:hover,
+#btnCriarUsuario:hover {
+
+    opacity:.85;
+
+}
+
+#mensagem {
+
+    min-height:20px;
+
+}
+
+.shadow-lg {
+
+    box-shadow:0 10px 25px rgba(0,0,0,.2)!important;
+
+}
