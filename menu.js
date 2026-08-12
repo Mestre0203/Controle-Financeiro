@@ -17,7 +17,7 @@ function sair(){
     sessionStorage.removeItem("usuarioAtual");
 
 
-    window.location.href="login.html";
+    window.location.href="index.html";
 
 
 }
